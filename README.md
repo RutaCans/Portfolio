@@ -1,42 +1,45 @@
-# 🎨 Digital Portfolio
+# 💻 Computer Science Portfolio
 
-Welcome to my digital portfolio! This repository showcases my design work and creative projects.
+Welcome to my Computer Science portfolio! This repository showcases my academic assignments and IT projects from my studies.
 
 ## 📍 View My Figma Portfolio
 
-**[Open Figma Digital Portfolio](https://figma.com/make/0OAuPd76tAtzew2gRyBylA/Digital-Portfolio?p=f&t=KrZDfHZfGbOTp7qT-0&fullscreen=1)**
+**[Open My CS Assignment Portfolio](https://figma.com/make/0OAuPd76tAtzew2gRyBylA/Digital-Portfolio?p=f&t=KrZDfHZfGbOTp7qT-0&fullscreen=1)**
 
-This is where all my design work, case studies, and projects are displayed. Click the link above to explore my complete portfolio!
+This is where all my Computer Science assignments, projects, and coursework documentation are displayed.
 
-## 🎯 About This Repository
+## 📂 What's Inside My Portfolio
 
-This repository serves as:
-- A central hub linking to my Figma digital portfolio
-- Documentation of my design work
-- A professional online presence
-- Version control for portfolio-related content
+My Figma portfolio contains links and documentation for:
 
-## 📂 What's Inside My Figma Portfolio
+- **🌐 Web Yomping in Yeovil** - Web development project showcasing local exploration and mapping
+- **🗄️ Access Database** - Database design and implementation project
+- **🤖 AI Research & Presentation** - Artificial Intelligence research project and findings
+- **📚 Other Coursework** - Additional Computer Science assignments and projects
 
-- **Design Projects** - Showcase of completed design work
-- **Case Studies** - In-depth look at my design process
-- **Skills & Experience** - Overview of my design capabilities
-- **Contact Information** - How to reach me
+## 🎯 About Me
+
+I'm a Computer Science student working on various IT projects and assignments. This portfolio demonstrates my skills in:
+- Web Development
+- Database Design & Management
+- AI & Machine Learning Research
+- Software Development
+- Project Documentation
 
 ## 🚀 Let's Connect!
 
-I'm always interested in discussing design, collaborating on projects, or hearing about opportunities.
+Feel free to explore my work or get in touch about my projects and experience.
 
-- **Figma Portfolio**: [View Here](https://figma.com/make/0OAuPd76tAtzew2gRyBylA/Digital-Portfolio?p=f&t=KrZDfHZfGbOTp7qT-0&fullscreen=1)
+- **Portfolio**: [View on Figma](https://figma.com/make/0OAuPd76tAtzew2gRyBylA/Digital-Portfolio?p=f&t=KrZDfHZfGbOTp7qT-0&fullscreen=1)
 - **GitHub**: [@RutaCans](https://github.com/RutaCans)
 
 ---
 
 ## 📋 How to Use This Repository
 
-1. Visit your Figma portfolio link above for the full interactive experience
-2. Check back here for any updates or additional project documentation
-3. Feel free to reach out with feedback or opportunities!
+1. Visit the Figma portfolio link above to see all my assignments and projects
+2. Click on each project to see detailed documentation and links
+3. Feel free to reach out with feedback or questions about my work!
 
 ---
 
