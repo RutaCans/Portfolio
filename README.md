@@ -1,36 +1,42 @@
-# Digital Portfolio
+# 🎨 Digital Portfolio
 
-Welcome to my digital portfolio repository! This repository contains links and documentation for my design work and projects.
+Welcome to my digital portfolio! This repository showcases my design work and creative projects.
 
-## 📋 Overview
+## 📍 View My Figma Portfolio
 
-This is a curated collection of my design projects and creative work. My portfolio is primarily hosted in Figma, where you can explore detailed designs, wireframes, and interactive prototypes.
+**[Open Figma Digital Portfolio](https://figma.com/make/0OAuPd76tAtzew2gRyBylA/Digital-Portfolio?p=f&t=KrZDfHZfGbOTp7qT-0&fullscreen=1)**
 
-## 🔗 View My Portfolio
+This is where all my design work, case studies, and projects are displayed. Click the link above to explore my complete portfolio!
 
-**[Open Portfolio in Figma](https://www.figma.com/)** ← Add your Figma link here
+## 🎯 About This Repository
 
-## 📁 What's Inside
+This repository serves as:
+- A central hub linking to my Figma digital portfolio
+- Documentation of my design work
+- A professional online presence
+- Version control for portfolio-related content
 
-- **Design Projects** - UI/UX designs and digital products
-- **Prototypes** - Interactive design prototypes
-- **Case Studies** - Detailed project breakdowns and processes
+## 📂 What's Inside My Figma Portfolio
 
-## 🛠️ Tools & Technologies
+- **Design Projects** - Showcase of completed design work
+- **Case Studies** - In-depth look at my design process
+- **Skills & Experience** - Overview of my design capabilities
+- **Contact Information** - How to reach me
 
-- Figma - UI/UX Design
-- [Add other tools you use]
+## 🚀 Let's Connect!
 
-## 📧 Get in Touch
+I'm always interested in discussing design, collaborating on projects, or hearing about opportunities.
 
-- **Portfolio**: [Your Figma Link]
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn]
-- **GitHub**: [Your GitHub]
+- **Figma Portfolio**: [View Here](https://figma.com/make/0OAuPd76tAtzew2gRyBylA/Digital-Portfolio?p=f&t=KrZDfHZfGbOTp7qT-0&fullscreen=1)
+- **GitHub**: [@RutaCans](https://github.com/RutaCans)
 
-## 📝 Notes
+---
 
-This repository serves as an archive and reference point for my portfolio. For the most up-to-date and interactive version, please visit my Figma workspace.
+## 📋 How to Use This Repository
+
+1. Visit your Figma portfolio link above for the full interactive experience
+2. Check back here for any updates or additional project documentation
+3. Feel free to reach out with feedback or opportunities!
 
 ---
 
