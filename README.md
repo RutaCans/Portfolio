@@ -4,7 +4,7 @@ Welcome to my Computer Science portfolio! This repository showcases my academic 
 
 ## 📍 View My Figma Portfolio
 
-**[Open My CS Assignment Portfolio](https://figma.com/make/0OAuPd76tAtzew2gRyBylA/Digital-Portfolio?p=f&t=KrZDfHZfGbOTp7qT-0&fullscreen=1)**
+**[Open My CS Assignment Portfolio](https://figma.com/make/0OAuPd76tAtzew2gRyBylA/Digital-Portfolio?p=f&t=H6pLfv1qwLfHV74V-0&fullscreen=1)**
 
 This is where all my Computer Science assignments, projects, and coursework documentation are displayed.
 
@@ -30,7 +30,7 @@ I'm a Computer Science student working on various IT projects and assignments. T
 
 Feel free to explore my work or get in touch about my projects and experience.
 
-- **Portfolio**: [View on Figma](https://figma.com/make/0OAuPd76tAtzew2gRyBylA/Digital-Portfolio?p=f&t=KrZDfHZfGbOTp7qT-0&fullscreen=1)
+- **Portfolio**: [View on Figma](https://figma.com/make/0OAuPd76tAtzew2gRyBylA/Digital-Portfolio?p=f&t=H6pLfv1qwLfHV74V-0&fullscreen=1)
 - **GitHub**: [@RutaCans](https://github.com/RutaCans)
 
 ---
